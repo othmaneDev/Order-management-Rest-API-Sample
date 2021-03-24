@@ -1,5 +1,5 @@
 # Order-management-Rest-API-Sample
-Contemporary Toll Parking This Java REST API project which demonstrate how to build a Rest API using Spring boot (Spring Data JPA, Spring HATEOS)
+Contemporary order management API This Java REST API project which demonstrate how to build a Rest API using Spring boot (Spring Data JPA, Spring HATEOS)
 
 Prerequisites Java 8+ & Maven
 
